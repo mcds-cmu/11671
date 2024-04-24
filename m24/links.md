@@ -25,5 +25,5 @@ Office of Disability Resources: [https://www.cmu.edu/disability-resources/](http
 Counseling and Psychological Services (CaPS): [https://www.cmu.edu/counseling/](https://www.cmu.edu/counseling/) <br />
 School of Computer Science: [https://www.cs.cmu.edu](https://www.cs.cmu.edu) <br />
 Language Technologies Institute: [https://www.lti.cs.cmu.edu](https://www.lti.cs.cmu.edu) <br />
-Master of Computational Data Science: [https://mcds.cs.cmu.edu](https://mcds.cs.cmu.edu)
+Master of Computational Data Science: [https://mcds.cs.cmu.edu](https://mcds.cs.cmu.edu) <br />
 Graduate Certificate in Machine Learning and Data Science Foundations: [https://www.cmu.edu/online/cds/](https://www.cmu.edu/online/cds/)
