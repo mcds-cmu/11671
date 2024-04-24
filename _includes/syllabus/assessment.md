@@ -1,7 +1,7 @@
 ## OLI Torus
 
-### Practice Quiz
-Practice quizzes are non-graded retrieval practices to assess your understanding of the reading materials on OLI Torus. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
+### Practice Quiz (Did I Get This?)
+Practice quizzes (Did I Get This?) are non-graded retrieval practices found integrated into each module page on OLI Torus. These quizzes assess your understanding immediately after you engage with the reading materials. Completing the practice quizzes provides excellent signals on your weekly summative (graded) in-class quizzes.
 
 You are strongly recommended to complete the practice quiz before the synchronous in-class quiz. If you missed many of the questions in the quiz, it is suggested that you review the material again.
 
@@ -12,7 +12,7 @@ Students will have only a single attempt to complete the weekly quiz on OLI Toru
 
 ## Sail()
 
-This course includes seven individual project themes. Each project theme consists of several project modules. A project module must be completed based on the deadlines on Sail() Platform. The write-up required to complete each project module is available on Sail() Platform. Each module has a submission process that is specific to the project module that is due. It is the student's responsibility to ensure all project work is completed and the project module is submitted before the deadline. Students typically have multiple attempts to submit the project module on Sail() Platform.
+This course includes four individual project themes. Each project theme consists of several project modules. A project module must be completed based on the deadlines on Sail() Platform. The write-up required to complete each project module is available on Sail() Platform. Each module has a submission process that is specific to the project module that is due. It is the student's responsibility to ensure all project work is completed and the project module is submitted before the deadline. Students typically have multiple attempts to submit the project module on Sail() Platform.
 
 ## Online Programming Exercise (OPE)
 
@@ -21,12 +21,12 @@ On the Sail() Platform, you will also see two OPE (Online Programming Exercise) 
 ## Manual-graded Components
 In Project 3 and the final exam, some components are manually graded questions. Students must submit a pdf or images of their work on Gradescope for manual grading. It is crucial for students to meticulously follow the submission guidelines on Gradescope, ensuring that each image or page of their write-up is accurately associated with the relevant question. Any deviation from this process, leading to an unlinked or incorrectly linked submission, will be treated as an invalid response and will automatically receive a grade of zero.
 
-## Midterm Exam
+<!-- ## Midterm Exam
 A midterm exam will be administered during class time, adhering to the schedule outlined in the course calendar. This exam encompasses both programming and conceptual components, covering all learning objectives taught from the start of the semester up until the midterm. Students are strongly encouraged to thoroughly review all materials from Sail() and Torus in preparation for the exam.
 
-The submission of the midterm exam will take place on Sail(). Each exam will be subject to manual grading to ensure comprehensive and fair assessment. This exam is a crucial part of the course, designed to evaluate the depth of students' understanding and their ability to apply the concepts learned in the first half of the semester.
+The submission of the midterm exam will take place on Sail(). Each exam will be subject to manual grading to ensure comprehensive and fair assessment. This exam is a crucial part of the course, designed to evaluate the depth of students' understanding and their ability to apply the concepts learned in the first half of the semester. -->
 
-## Final Exam
+<!-- ## Final Exam
 The final exam consists of three parts: the coding component, the write-up, and the conceptual quiz. Each of these is designed to assess different skills and knowledge acquired throughout the course.
 
 ### Coding Component on Sail() (30 points):
@@ -50,7 +50,7 @@ The final exam consists of three parts: the coding component, the write-up, and 
 
     - This comprehensive quiz covers all course modules and must be completed during class time as per the schedule found in the course calendar.
     - The quiz comprises 15 questions with a 30-minute time limit and is independent of the coding and write-up components.
-    - All components of the final exam must be completed within the designated final exam period, and no extensions will be granted. This structure ensures a comprehensive evaluation of the skills and knowledge acquired in the course.
+    - All components of the final exam must be completed within the designated final exam period, and no extensions will be granted. This structure ensures a comprehensive evaluation of the skills and knowledge acquired in the course. -->
 
 ## End-of-course Survey
 An end-of-course survey will be distributed around the final exam week. The survey aims to gather constructive feedback from students for further improvement and development of the course. To thank you for your time, students will be awarded 2% of the overall course grade for survey completion.

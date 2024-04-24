@@ -9,7 +9,7 @@ description: >-
 # Links
 ## Course links
 
-Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for 11-671 <br />
+Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for FCDS <br />
 Canvas (Summer 2024): [https://canvas.cmu.edu/courses/40425](https://canvas.cmu.edu/courses/40425) <br />
 Piazza: accessed through Canvas <br />
 Sail(): accessed through Canvas <br />

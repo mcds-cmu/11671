@@ -28,11 +28,11 @@ Ensure that your work is stored in secure directories. The consequences of cheat
 To ensure academic integrity, we will rigorously use cheat detection tools and other methods to identify unauthorized code use from this term, past terms, or sources available online. Any violation will result in a formal Academic Integrity Violation (AIV) report to both the university and the program. The typical consequence for such an infraction is receiving a failing grade for the course, although lesser penalties may be applied based on the severity of the infraction. For detailed information about specific penalties, please refer to your course syllabus.
 
 ## P/NP Grades
-MCDS students cannot take this course P/NP. Non-MCDS students could take this course P/NP should your program permit.
+Students cannot take this course P/NP.
 
 To be considered a passing grade in the course, all students must be met the following two conditions:
-- All projects (including the final exam) must be attempted, and at least some grades before the deadline must be non-zero.
-- Each of Project 2 (Problem Representation), project 6 (Model Deployment and Comparison), and Project 7 (Evaluation Optimization) must achieve at least 80%.
+- All projects must be attempted, and at least some grades before the deadline must be non-zero.
+- Project 2 (Problem Representation) must achieve at least 80%.
 
 These requirements are in addition to the standard grade scale evaluation criteria. Suppose you fail to fulfill these requirements by their respective deadlines. In that case, you must contact us after the deadlines to continue fulfilling them until you meet the thresholds. Only after then would you be considered to have met the threshold requirements. However, any grade you achieve after the deadlines will not be counted toward the final grade calculation.
 
@@ -53,9 +53,6 @@ A tutorial on how to use the Grace Day option on Sail() can be found on Canvas.
 
 ### For weekly quizzes on OLI Torus:
 Weekly quizzes will be taken independently on OLI Torus during the synchronous class meetings. No grace days are available for these quizzes. 
-
-### For the final exam:
-Grace days are not applicable to be used for the final exam. All final exam components must be completed within the final exam period as designated in the course calendar.
 
 ## AI Assistance
 Seeking assistance from an artificial intelligence system (e.g., a large language model such as ChatGPT) is strictly prohibited.
