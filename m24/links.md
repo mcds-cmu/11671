@@ -9,7 +9,7 @@ description: >-
 # Links
 ## Course links
 
-Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for FCDS <br />
+Office Hours Queue: [https://www.eberly.cmu.edu/ohq/#/courses](https://www.eberly.cmu.edu/ohq/#/courses) and search for "FCDS" <br />
 Canvas (Summer 2024): [https://canvas.cmu.edu/courses/40425](https://canvas.cmu.edu/courses/40425) <br />
 Piazza: accessed through Canvas <br />
 Sail(): accessed through Canvas <br />
@@ -26,3 +26,4 @@ Counseling and Psychological Services (CaPS): [https://www.cmu.edu/counseling/](
 School of Computer Science: [https://www.cs.cmu.edu](https://www.cs.cmu.edu) <br />
 Language Technologies Institute: [https://www.lti.cs.cmu.edu](https://www.lti.cs.cmu.edu) <br />
 Master of Computational Data Science: [https://mcds.cs.cmu.edu](https://mcds.cs.cmu.edu)
+Graduate Certificate in Machine Learning and Data Science Foundations: [https://www.cmu.edu/online/cds/](https://www.cmu.edu/online/cds/)

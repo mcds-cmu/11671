@@ -13,7 +13,7 @@ has_toc: false
 ## Overview
 
 **Title:** Foundations of Computational Data Science Mini 5 <br />
-**Units:** 12 units. <br />
+**Units:** 6 units. <br />
 **Pre-requisites:**
 - Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.
 - Understanding of basic statistics (descriptive statistics, hypothesis testing, measure of central tendency).
@@ -29,8 +29,7 @@ has_toc: false
 
 **Course Format:** Remote Hybrid
 - Synchronous:
-    - 1st meeting of the semester is a live session--details will be sent prior to the start of the course 
-    - The course meets once a week synchronously via Zoom during the scheduled class time
+    - The course meets twice a week synchronously via Zoom during the scheduled class time
 - Asynchronous: 
     - Students interact with course staff asynchronously via Piazza
     - Course materials, such as conceptual learning materials, primers, and tutorial videos, are delivered asynchronously via various Learning Management Systems (LMS) <br />
