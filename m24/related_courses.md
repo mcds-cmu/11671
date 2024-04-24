@@ -3,7 +3,7 @@ layout: m24
 title: Related Courses
 nav_order: 3
 description: >-
-    Courses Related to 11671 -  Foundations of Computational Data Science Mini 5.
+    Courses Related to 11671 -  Foundations of Computational Data Science I.
 --- -->
 
 # Related Courses

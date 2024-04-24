@@ -3,7 +3,7 @@ layout: m24
 title: Contact Us
 nav_order: 10
 description: >-
-    Contact Information for 11671 -  Foundations of Computational Data Science Mini 5.
+    Contact Information for 11671 -  Foundations of Computational Data Science I.
 ---
 
 # Contact Us

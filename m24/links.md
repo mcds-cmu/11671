@@ -3,7 +3,7 @@ layout: m24
 title: Links
 nav_order: 8
 description: >-
-    Links for 11671 -  Foundations of Computational Data Science Mini 5.
+    Links for 11671 -  Foundations of Computational Data Science I.
 ---
 
 # Links

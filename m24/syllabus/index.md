@@ -3,16 +3,16 @@ layout: m24
 title: Syllabus
 nav_order: 2
 description: >-
-    Syllabus for 11671 -  Foundations of Computational Data Science Mini 5.
+    Syllabus for 11671 -  Foundations of Computational Data Science I.
 has_children: true
 has_toc: false
 ---
 
-# 11-671: Foundations of Computational Data Science Mini 5 - Syllabus
+# 11-671: Foundations of Computational Data Science I - Syllabus
 
 ## Overview
 
-**Title:** Foundations of Computational Data Science Mini 5 <br />
+**Title:** Foundations of Computational Data Science I <br />
 **Units:** 6 units. <br />
 **Pre-requisites:**
 - Significant programming experience in Python (ability to design, implement and debug non-trivial programs). Ability to pick up other programming languages as needed.

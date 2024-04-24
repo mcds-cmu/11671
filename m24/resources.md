@@ -3,7 +3,7 @@ layout: m24
 title: Resources
 nav_order: 6
 description: >-
-    Resources for 11671 -  Foundations of Computational Data Science Mini 5.
+    Resources for 11671 -  Foundations of Computational Data Science I.
 ---
 
 # Resources

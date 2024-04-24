@@ -3,7 +3,7 @@ layout: m24
 title: Calendar
 nav_order: 4
 description: >-
-    Calendar for 11671 -  Foundations of Computational Data Science Mini 5.
+    Calendar for 11671 -  Foundations of Computational Data Science I.
 ---
 
 # Calendar
