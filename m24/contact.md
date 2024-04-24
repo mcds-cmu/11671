@@ -8,8 +8,6 @@ description: >-
 
 # Contact Us
 
-<!-- If you are an incoming student or a student interested in taking the course, please email us at [Who We Are]({{ site.baseurl }}{{ page.subpath }}{% link s23/home/index.md %}#who-we-are) -->
-
 If you are an incoming student or a student interested in taking the course, please email us at
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' | where: 'staff_for', 'm24' | sort:"list_order" %}
