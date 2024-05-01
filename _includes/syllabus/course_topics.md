@@ -3,10 +3,9 @@ In this project-based course, we have projects and conceptual learning objective
 
 | Unit # | Title                                      | Modules and Description                                                                                                                                                                                 |
 |--------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | From Problem Identification to Ethical Data Solutions | Problem Identification<br>Distilling the Analytic Objective<br>Data Science Lifecycle<br>Data Collection<br>Ethics of Data Science                                                                                                                                                                                                       |
-| 2      | Structures, Algorithms, and Systems          | Data Structures<br>Sparse Matrix<br>Recommender System<br>Matrix Factorization<br>Linear Algebra with Numpy
-                                                                                                                   |
-| 3      | Data Exploration and Preparation                  | Performing Exploratory Data Analysis<br>Statistical Inference & Hypothesis Testing<br>Feature Engineering                                                                                               |       
+| 1      | From Problem Identification to Ethical Data Solutions | Problem Identification<br>Distilling the Analytic Objective<br>Data Science Lifecycle<br>Data Collection<br>Ethics of Data Science    |
+| 2      | Structures, Algorithms, and Systems          | Data Structures<br>Sparse Matrix<br>Recommender System<br>Matrix Factorization<br>Linear Algebra with Numpy |
+| 3      | Data Exploration and Preparation                  | Performing Exploratory Data Analysis<br>Statistical Inference & Hypothesis Testing<br>Feature Engineering |       
 
 ## Projects
 
